@@ -1,0 +1,79 @@
+
+.logo-middle {
+
+  display: block;
+  margin: auto;
+    
+}
+
+p{
+    margin: 0px;
+}
+
+.container1 {
+    
+    text-align: -webkit-center;
+    width: 1200px;
+    height: 60px;
+    margin: auto;
+    background-color: #EEEEEE
+    
+}
+
+.search-bar {
+   
+    
+    width: 317px;
+    height: 21px;
+}
+
+.container2 {
+
+    text-align: -webkit-center;
+    width: 1200px;
+    height: 76px;
+   margin: auto;
+    margin-top: 2px;
+    background-color: white;
+
+   
+}
+
+
+.boxleft{
+    width: 444px;
+    height: 76px;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin-right: 1px;
+}
+
+.boxmiddle{
+
+    font-size: 13px;
+    width: 231px;
+    height: 76px;
+    background-color: rgb(112, 204, 194);
+    float: left;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.boxright{
+
+    font-size: 13px;
+    width: 521px;
+    height: 76px;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    margin-left: 1px;
+    
+}
+
+.last{
+   padding-top: 100px;
+   width: 157px;
+   height: 15px;
+   font-size: 13px;
+
+}
