@@ -41,11 +41,11 @@ p{
 
 
 .boxleft{
-    width: 444px;
+    width: 443px;
     height: 76px;
     background-color: rgb(126, 229, 218);
     float: left;
-    margin-right: 1px;
+    margin:0 1px 0 0;
 }
 
 .boxmiddle{
